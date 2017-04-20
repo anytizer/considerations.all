@@ -1,19 +1,22 @@
 # Considerations
 
 Things to consider while developing pluggable components.
-See disclaimer.
+See [disclaimer](disclaimer.md).
 
 ## C# Development
  - .dll Libraries
  - Include unit tests
  - Include stand alone tests
  - Provide documentation
+ - Common namespaces for libraries
 
 
 ## PHP Development
  - All test units MUST pass without errors
  - Namespaces must be defined
+ - Namespaces must be documented
  - Run only on PHP 7 onwards
+ - Use exceptions
  - See standards
 
 
