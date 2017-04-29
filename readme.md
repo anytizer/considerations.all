@@ -18,6 +18,7 @@ See [disclaimer](disclaimer.md).
  - Run only on PHP 7 onwards
  - Use exceptions
  - See standards
+ - [Class files may be included remotely](https://github.com/anytizer/whereclude.php)
 
 
 ## MySQL Development
